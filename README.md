@@ -1,5 +1,9 @@
 # Predicting Psychological Distress under Coronavirus Disease Pandemic
 
+## Hypotheses
+1. Stress and loneliness are the most significant predictors of distress under COVID-19
+2. XGBoost has the highest predictive accuracy among the models
+
 ## Dataset
 
 ### 1. COVIDISTRESS Global survey dataset (Yamada et al., 2021)
