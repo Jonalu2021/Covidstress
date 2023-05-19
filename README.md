@@ -1,8 +1,6 @@
-# Covidstress
+# Predicting Psychological Distress under Coronavirus Disease Pandemic
 
-##### Predicting Psychological Distress under Coronavirus Disease Pandemic
-
-#### Dataset
+## Dataset
 
 1. COVIDISTRESS Global survey dataset (Yamada et al., 2021)
 
@@ -27,7 +25,7 @@ No. of features: 16
  - Confinement and closing policies
  - Economic policies
 
-#### Exploratory Data Analysis
+## Exploratory Data Analysis
 
 <img src="stress_1.png" alt="image description" width="500"/>
 
