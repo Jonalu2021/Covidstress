@@ -4,6 +4,8 @@
 
 ### 1. COVIDISTRESS Global survey dataset (Yamada et al., 2021)
 
+https://www.nature.com/articles/s41562-021-01079-8
+
 Period: 30 March to 30 May 2020
 
 Sampling: online and media appeals
@@ -15,6 +17,8 @@ No. of features: 29
  - Coping resources
 
 ### 2. Oxford COVID-19 Government Response Tracker (Hale et al., 2021)
+
+https://www.nature.com/articles/s41597-020-00784-9
 
 Period: since 1st January 2020
 
