@@ -2,7 +2,7 @@
 
 ## Dataset
 
-1. COVIDISTRESS Global survey dataset (Yamada et al., 2021)
+### 1. COVIDISTRESS Global survey dataset (Yamada et al., 2021)
 
 Period: 30 March to 30 May 2020
 
@@ -14,7 +14,7 @@ No. of features: 29
  - Attitudes
  - Coping resources
 
-2. Oxford COVID-19 Government Response Tracker (Hale et al., 2021)
+### Oxford COVID-19 Government Response Tracker (Hale et al., 2021)
 
 Period: since 1st January 2020
 
