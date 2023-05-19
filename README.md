@@ -53,6 +53,7 @@ No. of features: 16
 ## Results 
 ### Comparison of algorithms
 <img src="stress_4.png" alt="image description" width="500"/>
+<img src="stress_3.png" alt="image description" width="500"/>
 
 
 ## References
