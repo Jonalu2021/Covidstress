@@ -14,7 +14,7 @@ No. of features: 29
  - Attitudes
  - Coping resources
 
-### Oxford COVID-19 Government Response Tracker (Hale et al., 2021)
+### 2. Oxford COVID-19 Government Response Tracker (Hale et al., 2021)
 
 Period: since 1st January 2020
 
