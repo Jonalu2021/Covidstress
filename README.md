@@ -25,6 +25,12 @@ No. of features: 16
  - Confinement and closing policies
  - Economic policies
 
+### Final dataset 
+
+- 94,901 responses
+- 49 features
+- 35 Binary flags
+
 ## Exploratory Data Analysis
 
 ### Distribution
