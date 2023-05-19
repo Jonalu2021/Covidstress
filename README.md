@@ -27,10 +27,10 @@ No. of features: 16
 
 ## Exploratory Data Analysis
 
-Distribution
+### Distribution
 <img src="stress_1.png" alt="image description" width="500"/>
 
-Colinearity 
+### Colinearity 
 <img src="stress_2.png" alt="image description" width="500"/>
 
 ## Data Preprocessing 
